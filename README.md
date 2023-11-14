@@ -2,7 +2,7 @@
 
 ## Module 10
 
-Resources:
+Resources:<br/>
 https://www.itsolutionstuff.com/post/how-to-subtract-year-to-date-in-pythonexample.html
 https://stackoverflow.com/questions/29525808/sqlalchemy-orm-conversion-to-pandas-dataframe
 https://stackoverflow.com/questions/9187530/using-alias-for-select-as-in-sqlalchemy/9187589#9187589
