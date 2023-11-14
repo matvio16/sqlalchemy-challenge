@@ -16,5 +16,5 @@ All files uploaded to the sqlalchemy-challenge repository including:
         - hawaii_measurements.csv
         - hawaii_stations.csv
         - hawaii.sqlite
-    app.py - Climate app for Part 2
-    climate_starter.ipynb - analysis of climate date for Part 1
+    - app.py - Climate app for Part 2
+    - climate_starter.ipynb - analysis of climate date for Part 1
